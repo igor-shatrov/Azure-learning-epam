@@ -1,0 +1,5 @@
+env                     = "dev"
+kv_sku                  = "standard"
+sa_acc_tier             = "standard"
+sa_acc_replication_type = "GRS"
+owner_name              = "iharshatrou"

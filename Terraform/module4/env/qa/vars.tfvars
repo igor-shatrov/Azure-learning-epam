@@ -1,0 +1,5 @@
+env                     = "qa"
+kv_sku                  = "standard"
+sa_acc_tier             = "standard"
+sa_acc_replication_type = "LRS"
+owner_name              = "iharshatrou"
